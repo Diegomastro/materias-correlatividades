@@ -6,4 +6,6 @@ Verde: Aprobada <br/>
 Gris: Se puede cursar <br/> 
 Rojo: Todavia no se puede cursar <br/> 
 
-[Descargar](https://github.com/Diegomastro/materias-correlatividades/releases/download/v1.0/correlatividades.exe).
+###Descarga:
+Podes descargarlo [haciendo click acá](https://github.com/Diegomastro/materias-correlatividades/releases/download/v1.0/correlatividades.exe).
+
